@@ -7,8 +7,9 @@
 - matrix_det.m ... det
 - matrix_diag.m ... 対角化
 ### 春・夏
-#### Cプログラミング入門
+#### Cプログラミング入門(Cpro_1)
 ### 秋・冬
+#### Cプログラミング(Cpro_2)
 #### 工学系のモデリングB(modelingB)
 - FirstOrderSystem.m ... 1次遅れ系のシミュレーション
 - SecondOderSystem.m ... 2次遅れ系のシミュレーション
