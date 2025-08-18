@@ -2,7 +2,10 @@
 ## Contents
 ### 通年
 #### 線形代数(LinearAlgebra)
-- MatrixToolApp.m ... 行列計算アプリケーション
+- matrix_rref.m ... 行列簡約化・rank
+- matrix_multiplication.m ... 2つの行列の積
+- matrix_det.m ... det
+- matrix_diag.m ... 対角化
 ### 春・夏
 #### Cプログラミング入門
 ### 秋・冬
