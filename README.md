@@ -15,7 +15,12 @@
 #### Cプログラミング(Cpro_2)
 - hanoi.c ... ハノイの塔
 - pascal.c ... パスカルの三角形
+- pascal2.c ... パスカルの三角形を再帰除去で実装
+- mv.c ... 行列とベクトルの積
+- mm.c ... 行列同士の積
+- linear.c ... 1次連立方程式
 - root.c ... 関数の根を求める
+- extrema.c ... 関数の極値を求める
 #### 工学系のモデリングB(modelingB)
 - FirstOrderSystem.m ... 1次遅れ系のシミュレーション
 - SecondOderSystem.m ... 2次遅れ系のシミュレーション
