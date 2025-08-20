@@ -10,6 +10,8 @@
 #### Cプログラミング入門(Cpro_1)
 - pifor.c ... for文でπの近似値を求める
 - even.c ... 級数の計算
+- fibonaci.c ... フィボナッチ数列の計算
+- round.c ... 四捨五入
 - ifelse.c ... 点数と評定の条件分岐
 - complex1.c ... 複素数の四則演算
 - complex2.c ... ドモアブルの定理
