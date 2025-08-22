@@ -1,4 +1,5 @@
 # B1_Class_Projects
+![Last Commit](https://img.shields.io/github/last-commit/97kuek/B1_Class_Projects?label=最終更新&style=flat-square)
 ## Contents
 ### 通年
 #### 線形代数(LinearAlgebra)
